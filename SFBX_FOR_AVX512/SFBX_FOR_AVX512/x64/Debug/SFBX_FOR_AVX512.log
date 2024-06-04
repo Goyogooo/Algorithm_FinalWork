@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\MyVS\SFBX_FOR_AVX512\SFBX_FOR_AVX512\test.cpp(43,25): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  SFBX_FOR_AVX512.vcxproj -> D:\MyVS\SFBX_FOR_AVX512\x64\Debug\SFBX_FOR_AVX512.exe
